@@ -1,0 +1,4 @@
+Implement mMultiple Linear regression model
+Predicting sales based on the money spent on TV, Radio, and Newspaper for marketing. 
+In this case, there are three independent variables, i.e., money spent on TV, Radio, and Newspaper for marketing, and one dependent variable,
+i.e., sales, that is the value to be predicted.
